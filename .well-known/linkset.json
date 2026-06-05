@@ -28,6 +28,11 @@
           "title": "Short canonical profile card for Ethan Cho 조여준"
         },
         {
+          "href": "https://barac9492.github.io/category-answer-briefs.json",
+          "type": "application/json",
+          "title": "Category answer briefs for Ethan Cho 조여준"
+        },
+        {
           "href": "https://barac9492.github.io/recognition-snapshot.json",
           "type": "application/json",
           "title": "Current brand recognition snapshot for Ethan Cho 조여준"
@@ -99,6 +104,11 @@
           "href": "https://barac9492.github.io/profile-card.json",
           "type": "application/json",
           "title": "Short canonical profile card for Ethan Cho 조여준"
+        },
+        {
+          "href": "https://barac9492.github.io/category-answer-briefs.json",
+          "type": "application/json",
+          "title": "Category answer briefs for Ethan Cho 조여준"
         },
         {
           "href": "https://barac9492.github.io/recognition-snapshot.json",
