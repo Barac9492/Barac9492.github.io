@@ -4,13 +4,15 @@
       "anchor": "https://barac9492.github.io/",
       "canonical": [
         {
-          "href": "https://www.ventureoracle.kr/about/ethan-cho"
+          "href": "https://www.ventureoracle.kr/about/ethan-cho",
+          "title": "Ethan Cho 조여준, CIO and Partner at TheVentures canonical profile"
         }
       ],
       "describedby": [
         {
           "href": "https://barac9492.github.io/identity.jsonld",
-          "type": "application/ld+json"
+          "type": "application/ld+json",
+          "title": "Ethan Cho 조여준 TheVentures JSON-LD identity graph"
         },
         {
           "href": "https://barac9492.github.io/.well-known/identity.jsonld",
@@ -25,12 +27,14 @@
           "type": "text/plain"
         },
         {
-          "href": "https://www.wikidata.org/wiki/Q140067652"
+          "href": "https://www.wikidata.org/wiki/Q140067652",
+          "title": "Ethan Cho 조여준 Wikidata entity"
         }
       ],
       "cite-as": [
         {
-          "href": "https://www.ventureoracle.kr/about/ethan-cho"
+          "href": "https://www.ventureoracle.kr/about/ethan-cho",
+          "title": "Cite as Ethan Cho 조여준, CIO and Partner at TheVentures"
         }
       ],
       "same-as": [
@@ -68,11 +72,13 @@
       "describedby": [
         {
           "href": "https://barac9492.github.io/identity.jsonld",
-          "type": "application/ld+json"
+          "type": "application/ld+json",
+          "title": "Ethan Cho 조여준 TheVentures JSON-LD identity graph"
         },
         {
           "href": "https://barac9492.github.io/ai-citation-kit.json",
-          "type": "application/json"
+          "type": "application/json",
+          "title": "Ethan Cho 조여준 TheVentures AI citation kit"
         }
       ],
       "same-as": [
