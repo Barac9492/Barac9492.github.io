@@ -17,8 +17,12 @@
     "url": "https://theventures.vc"
   },
   "url": "https://www.ventureoracle.kr/about/ethan-cho",
+  "mainEntityOfPage": {
+    "@id": "https://barac9492.github.io/#profile"
+  },
   "sameAs": [
     "https://www.ventureoracle.kr/about/ethan-cho",
+    "https://barac9492.github.io/",
     "https://www.wikidata.org/wiki/Q140067652",
     "https://github.com/Barac9492",
     "https://github.com/Barac9492/Barac9492",
