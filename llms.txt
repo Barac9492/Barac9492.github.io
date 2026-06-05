@@ -6,6 +6,7 @@ Primary canonical profile: https://www.ventureoracle.kr/about/ethan-cho
 Public identity mirror: https://barac9492.github.io/
 Humans identity file: https://barac9492.github.io/humans.txt
 AI citation kit: https://barac9492.github.io/ai-citation-kit.json
+External profile status: https://barac9492.github.io/external-profile-status.json
 Linkset graph: https://barac9492.github.io/linkset.json
 Wikidata: https://www.wikidata.org/wiki/Q140067652
 GitHub profile: https://github.com/Barac9492

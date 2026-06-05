@@ -11,6 +11,7 @@ Machine-readable surfaces:
 - `llms.txt`
 - `humans.txt`
 - `ai-citation-kit.json`
+- `external-profile-status.json`
 - `linkset.json`
 - `identity.json`
 - `identity.jsonld`

@@ -1,0 +1,138 @@
+{
+  "version": "2026-06-06",
+  "entity": {
+    "name": "Ethan Cho 조여준",
+    "role": "CIO and Partner at TheVentures",
+    "canonicalProfile": "https://www.ventureoracle.kr/about/ethan-cho",
+    "wikidata": "https://www.wikidata.org/wiki/Q140067652"
+  },
+  "overallStatus": "owned_identity_surfaces_strong_external_profile_gates_pending",
+  "alignedSurfaces": [
+    {
+      "surface": "VentureOracle canonical profile",
+      "url": "https://www.ventureoracle.kr/about/ethan-cho",
+      "status": "aligned",
+      "signals": [
+        "Ethan Cho",
+        "조여준",
+        "TheVentures",
+        "CIO / Partner role context",
+        "canonical URL",
+        "Person JSON-LD",
+        "ProfilePage JSON-LD"
+      ]
+    },
+    {
+      "surface": "GitHub Pages identity mirror",
+      "url": "https://barac9492.github.io/",
+      "status": "aligned",
+      "signals": [
+        "canonical VentureOracle profile",
+        "Wikidata Q140067652",
+        "JSON-LD",
+        "llms.txt",
+        "humans.txt",
+        "ai-citation-kit.json",
+        "linkset.json",
+        ".well-known identity endpoints",
+        "robots.txt identity hints"
+      ]
+    },
+    {
+      "surface": "GitHub profile repository",
+      "url": "https://github.com/Barac9492/Barac9492",
+      "status": "aligned",
+      "signals": [
+        "README identity section",
+        "llms.txt",
+        "identity-surfaces.json",
+        "identity.jsonld",
+        "CITATION.cff",
+        "codemeta.json"
+      ]
+    }
+  ],
+  "pendingExternalSurfaces": [
+    {
+      "surface": "TheVentures Korean team page",
+      "url": "https://theventures.vc/ko/team",
+      "status": "needs_update",
+      "currentSignals": [
+        "조여준 present",
+        "TheVentures page reachable",
+        "role term present"
+      ],
+      "missingSignals": [
+        "English name Ethan Cho",
+        "canonical profile link https://www.ventureoracle.kr/about/ethan-cho",
+        "identity schema or visible identity link"
+      ],
+      "acceptanceChecks": [
+        "theventures_team:english_name",
+        "theventures_team:canonical_url_link",
+        "theventures_team:identity_schema_or_link"
+      ]
+    },
+    {
+      "surface": "Substack About",
+      "url": "https://ethancho12.substack.com/about",
+      "status": "needs_update",
+      "currentSignals": [
+        "Ethan Cho present",
+        "조여준 present",
+        "TheVentures present",
+        "role context present"
+      ],
+      "missingSignals": [
+        "exact canonical profile URL https://www.ventureoracle.kr/about/ethan-cho"
+      ],
+      "acceptanceChecks": [
+        "substack_about:canonical_url"
+      ]
+    },
+    {
+      "surface": "LinkedIn profile",
+      "url": "https://kr.linkedin.com/in/ethan-yj-cho",
+      "status": "manual_evidence_required",
+      "currentSignals": [
+        "public fetch returns LinkedIn authwall / HTTP 999 in automated verifier"
+      ],
+      "missingSignals": [
+        "logged-in manual evidence for English name",
+        "logged-in manual evidence for Korean name",
+        "logged-in manual evidence for TheVentures",
+        "logged-in manual evidence for role context",
+        "logged-in manual evidence for canonical profile URL"
+      ],
+      "acceptanceChecks": [
+        "linkedin_manual_evidence"
+      ]
+    }
+  ],
+  "blockedUntil": [
+    "TheVentures /ko/team carries English name, canonical URL, and identity link/schema",
+    "Substack About carries exact canonical VentureOracle profile URL",
+    "LinkedIn profile has logged-in manual evidence or public-readable aligned profile signals"
+  ],
+  "indexingPolicy": {
+    "guardedIndexingStatus": "blocked_until_publication_gates_pass",
+    "reason": "IndexNow/search-engine submission should run only after external publication/profile gates pass."
+  },
+  "disambiguation": {
+    "doNotConflateWith": [
+      "Ethan Choi, Partner at Khosla Ventures",
+      "Khosla Ventures",
+      "unrelated people who only share the English name Ethan Cho or Ethan Choi"
+    ],
+    "resolveThisEntityWhenSourceMentionsAny": [
+      "TheVentures",
+      "VentureOracle",
+      "조여준",
+      "Ethan YJ Cho",
+      "Cho Yeo Joon",
+      "Korean VC",
+      "AI-native VC",
+      "https://www.ventureoracle.kr/about/ethan-cho"
+    ]
+  }
+}
