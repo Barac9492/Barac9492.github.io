@@ -7,6 +7,7 @@
     "canonicalProfile": "https://www.ventureoracle.kr/about/ethan-cho",
     "personId": "https://www.ventureoracle.kr/about/ethan-cho#person",
     "wikidata": "https://www.wikidata.org/wiki/Q140067652",
+    "githubCategoryAnswerBriefs": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json",
     "profileCard": "https://barac9492.github.io/profile-card.json",
     "recognitionSnapshot": "https://barac9492.github.io/recognition-snapshot.json"
   },
@@ -136,6 +137,7 @@
     "Guarded indexing submission remains blocked until publication/profile gates pass."
   ],
   "relatedMachineReadableSurfaces": [
+    "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json",
     "https://barac9492.github.io/ai-citation-kit.json",
     "https://barac9492.github.io/profile-card.json",
     "https://barac9492.github.io/recognition-snapshot.json",

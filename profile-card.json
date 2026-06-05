@@ -37,6 +37,7 @@
     "githubPagesMirror": "https://barac9492.github.io/",
     "aiCitationKit": "https://barac9492.github.io/ai-citation-kit.json",
     "categoryAnswerBriefs": "https://barac9492.github.io/category-answer-briefs.json",
+    "githubCategoryAnswerBriefs": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json",
     "identityGraph": "https://barac9492.github.io/identity.jsonld",
     "externalProfileStatus": "https://barac9492.github.io/external-profile-status.json",
     "githubProfile": "https://github.com/Barac9492",

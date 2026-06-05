@@ -33,6 +33,11 @@
           "title": "Category answer briefs for Ethan Cho 조여준"
         },
         {
+          "href": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json",
+          "type": "application/json",
+          "title": "Raw GitHub category answer briefs for Ethan Cho 조여준"
+        },
+        {
           "href": "https://barac9492.github.io/recognition-snapshot.json",
           "type": "application/json",
           "title": "Current brand recognition snapshot for Ethan Cho 조여준"
@@ -66,6 +71,9 @@
         },
         {
           "href": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld"
+        },
+        {
+          "href": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json"
         },
         {
           "href": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/CITATION.cff"
@@ -109,6 +117,11 @@
           "href": "https://barac9492.github.io/category-answer-briefs.json",
           "type": "application/json",
           "title": "Category answer briefs for Ethan Cho 조여준"
+        },
+        {
+          "href": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json",
+          "type": "application/json",
+          "title": "Raw GitHub category answer briefs for Ethan Cho 조여준"
         },
         {
           "href": "https://barac9492.github.io/recognition-snapshot.json",
