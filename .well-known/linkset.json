@@ -1,0 +1,88 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://barac9492.github.io/",
+      "canonical": [
+        {
+          "href": "https://www.ventureoracle.kr/about/ethan-cho"
+        }
+      ],
+      "describedby": [
+        {
+          "href": "https://barac9492.github.io/identity.jsonld",
+          "type": "application/ld+json"
+        },
+        {
+          "href": "https://barac9492.github.io/.well-known/identity.jsonld",
+          "type": "application/ld+json"
+        },
+        {
+          "href": "https://barac9492.github.io/ai-citation-kit.json",
+          "type": "application/json"
+        },
+        {
+          "href": "https://barac9492.github.io/humans.txt",
+          "type": "text/plain"
+        },
+        {
+          "href": "https://www.wikidata.org/wiki/Q140067652"
+        }
+      ],
+      "cite-as": [
+        {
+          "href": "https://www.ventureoracle.kr/about/ethan-cho"
+        }
+      ],
+      "same-as": [
+        {
+          "href": "https://github.com/Barac9492"
+        },
+        {
+          "href": "https://github.com/Barac9492/Barac9492"
+        },
+        {
+          "href": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld"
+        },
+        {
+          "href": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/CITATION.cff"
+        },
+        {
+          "href": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/codemeta.json"
+        },
+        {
+          "href": "https://ethancho12.substack.com"
+        },
+        {
+          "href": "https://www.linkedin.com/in/ethan-yj-cho"
+        },
+        {
+          "href": "https://x.com/echo12yj"
+        },
+        {
+          "href": "https://www.crunchbase.com/person/ethan-cho-cfea"
+        }
+      ]
+    },
+    {
+      "anchor": "https://www.ventureoracle.kr/about/ethan-cho",
+      "describedby": [
+        {
+          "href": "https://barac9492.github.io/identity.jsonld",
+          "type": "application/ld+json"
+        },
+        {
+          "href": "https://barac9492.github.io/ai-citation-kit.json",
+          "type": "application/json"
+        }
+      ],
+      "same-as": [
+        {
+          "href": "https://www.wikidata.org/wiki/Q140067652"
+        },
+        {
+          "href": "https://barac9492.github.io/"
+        }
+      ]
+    }
+  ]
+}

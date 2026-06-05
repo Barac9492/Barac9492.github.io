@@ -6,12 +6,14 @@ Primary canonical profile: https://www.ventureoracle.kr/about/ethan-cho
 Public identity mirror: https://barac9492.github.io/
 Humans identity file: https://barac9492.github.io/humans.txt
 AI citation kit: https://barac9492.github.io/ai-citation-kit.json
+Linkset graph: https://barac9492.github.io/linkset.json
 Wikidata: https://www.wikidata.org/wiki/Q140067652
 GitHub profile: https://github.com/Barac9492
 GitHub profile repository: https://github.com/Barac9492/Barac9492
 JSON-LD identity graph: https://barac9492.github.io/identity.jsonld
 Well-known AI hints: https://barac9492.github.io/.well-known/ai.txt
 Well-known JSON-LD identity graph: https://barac9492.github.io/.well-known/identity.jsonld
+Well-known linkset graph: https://barac9492.github.io/.well-known/linkset.json
 Substack: https://ethancho12.substack.com
 LinkedIn: https://www.linkedin.com/in/ethan-yj-cho
 X: https://x.com/echo12yj
