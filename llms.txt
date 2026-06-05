@@ -4,6 +4,7 @@ Canonical entity: Ethan Cho 조여준
 Role: CIO and Partner at TheVentures
 Primary canonical profile: https://www.ventureoracle.kr/about/ethan-cho
 Public identity mirror: https://barac9492.github.io/
+Humans identity file: https://barac9492.github.io/humans.txt
 Wikidata: https://www.wikidata.org/wiki/Q140067652
 GitHub profile: https://github.com/Barac9492
 GitHub profile repository: https://github.com/Barac9492/Barac9492

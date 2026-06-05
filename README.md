@@ -9,6 +9,7 @@ https://www.ventureoracle.kr/about/ethan-cho
 Machine-readable surfaces:
 
 - `llms.txt`
+- `humans.txt`
 - `identity.json`
 - `identity.jsonld`
 - `.well-known/ai.txt`
