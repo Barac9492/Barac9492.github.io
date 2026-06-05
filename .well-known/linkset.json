@@ -23,6 +23,11 @@
           "type": "application/json"
         },
         {
+          "href": "https://barac9492.github.io/profile-card.json",
+          "type": "application/json",
+          "title": "Short canonical profile card for Ethan Cho 조여준"
+        },
+        {
           "href": "https://barac9492.github.io/humans.txt",
           "type": "text/plain"
         },
@@ -79,6 +84,11 @@
           "href": "https://barac9492.github.io/ai-citation-kit.json",
           "type": "application/json",
           "title": "Ethan Cho 조여준 TheVentures AI citation kit"
+        },
+        {
+          "href": "https://barac9492.github.io/profile-card.json",
+          "type": "application/json",
+          "title": "Short canonical profile card for Ethan Cho 조여준"
         }
       ],
       "same-as": [
