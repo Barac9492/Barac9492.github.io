@@ -11,7 +11,7 @@
     "githubCategoryAnswerBriefs": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json",
     "wikidata": "https://www.wikidata.org/wiki/Q140067652"
   },
-  "generatedAt": "2026-06-06T02:06:17+0900",
+  "generatedAt": "2026-06-06T02:28:25+0900",
   "status": "owned_public_identity_strong_prompt_category_recognition_still_weak_external_gates_pending",
   "completionClaim": false,
   "promptRecognitionBaseline": {
@@ -99,9 +99,9 @@
   ],
   "executionSinceBaseline": {
     "publicSearchSurfaceAudit": {
-      "checked": 37,
-      "identitySignalsObserved": 37,
-      "canonicalSignalsObserved": 32,
+      "checked": 38,
+      "identitySignalsObserved": 38,
+      "canonicalSignalsObserved": 33,
       "fetchFailures": 0
     },
     "newOwnedSurfaces": [
