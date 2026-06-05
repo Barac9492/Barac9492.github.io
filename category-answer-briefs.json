@@ -138,6 +138,7 @@
   ],
   "relatedMachineReadableSurfaces": [
     "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json",
+    "https://barac9492.github.io/category-answer-briefs.jsonld",
     "https://barac9492.github.io/ai-citation-kit.json",
     "https://barac9492.github.io/profile-card.json",
     "https://barac9492.github.io/recognition-snapshot.json",
