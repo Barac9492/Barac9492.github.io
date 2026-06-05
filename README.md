@@ -11,4 +11,6 @@ Machine-readable surfaces:
 - `llms.txt`
 - `identity.json`
 - `identity.jsonld`
+- `.well-known/ai.txt`
+- `.well-known/identity.jsonld`
 - `sitemap.xml`
