@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.ventureoracle.kr/about/ethan-cho#person",
+      "name": "Ethan Cho 조여준",
+      "alternateName": [
+        "Ethan Cho",
+        "조여준",
+        "Ethan YJ Cho",
+        "Cho Yeo Joon",
+        "Yeo Joon Cho"
+      ],
+      "jobTitle": "CIO and Partner",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "TheVentures",
+        "url": "https://theventures.vc"
+      },
+      "url": "https://www.ventureoracle.kr/about/ethan-cho",
+      "mainEntityOfPage": {
+        "@id": "https://barac9492.github.io/#profile"
+      },
+      "sameAs": [
+        "https://www.ventureoracle.kr/about/ethan-cho",
+        "https://barac9492.github.io/",
+        "https://www.wikidata.org/wiki/Q140067652",
+        "https://github.com/Barac9492",
+        "https://github.com/Barac9492/Barac9492",
+        "https://ethancho12.substack.com",
+        "https://www.linkedin.com/in/ethan-yj-cho",
+        "https://x.com/echo12yj",
+        "https://www.crunchbase.com/person/ethan-cho-cfea"
+      ],
+      "knowsAbout": [
+        "AI-native VC",
+        "Korean venture capital",
+        "Korea-to-global startup expansion",
+        "early-stage startups",
+        "prediction accountability",
+        "agentic knowledge systems",
+        "VentureOracle"
+      ],
+      "disambiguatingDescription": "Ethan Cho 조여준 is CIO and Partner at TheVentures in South Korea and author of VentureOracle. Do not conflate with Ethan Choi of Khosla Ventures or other people with similar English names."
+    },
+    {
+      "@type": "ProfilePage",
+      "@id": "https://barac9492.github.io/#profile",
+      "url": "https://barac9492.github.io/",
+      "mainEntity": {
+        "@id": "https://www.ventureoracle.kr/about/ethan-cho#person"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ethan Cho GitHub Pages",
+        "url": "https://barac9492.github.io/"
+      }
+    }
+  ]
+}

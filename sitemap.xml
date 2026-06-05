@@ -9,4 +9,7 @@
   <url>
     <loc>https://barac9492.github.io/identity.json</loc>
   </url>
+  <url>
+    <loc>https://barac9492.github.io/identity.jsonld</loc>
+  </url>
 </urlset>

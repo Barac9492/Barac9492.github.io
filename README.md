@@ -10,4 +10,5 @@ Machine-readable surfaces:
 
 - `llms.txt`
 - `identity.json`
+- `identity.jsonld`
 - `sitemap.xml`
