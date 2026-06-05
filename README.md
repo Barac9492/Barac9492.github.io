@@ -10,6 +10,7 @@ Machine-readable surfaces:
 
 - `llms.txt`
 - `humans.txt`
+- `ai-citation-kit.json`
 - `identity.json`
 - `identity.jsonld`
 - `.well-known/ai.txt`

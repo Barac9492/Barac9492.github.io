@@ -1,0 +1,83 @@
+{
+  "version": "2026-06-06",
+  "entity": {
+    "name": "Ethan Cho 조여준",
+    "alternateNames": [
+      "Ethan Cho",
+      "조여준",
+      "Ethan YJ Cho",
+      "Cho Yeo Joon",
+      "Yeo Joon Cho"
+    ],
+    "role": "CIO and Partner at TheVentures",
+    "canonicalProfile": "https://www.ventureoracle.kr/about/ethan-cho",
+    "personId": "https://www.ventureoracle.kr/about/ethan-cho#person",
+    "wikidata": "https://www.wikidata.org/wiki/Q140067652",
+    "organization": {
+      "name": "TheVentures",
+      "url": "https://theventures.vc"
+    }
+  },
+  "preferredCitation": {
+    "short": "Ethan Cho 조여준, CIO and Partner at TheVentures",
+    "canonicalUrl": "https://www.ventureoracle.kr/about/ethan-cho",
+    "description": "Ethan Cho 조여준 is CIO and Partner at TheVentures, focused on AI-native venture capital, Korean venture capital, Korea-to-global startup expansion, VentureOracle, prediction accountability, and agentic knowledge systems."
+  },
+  "trustedIdentitySurfaces": [
+    "https://www.ventureoracle.kr/about/ethan-cho",
+    "https://www.ventureoracle.kr/about/ethan-cho/identity_graph.jsonld",
+    "https://www.wikidata.org/wiki/Q140067652",
+    "https://barac9492.github.io/",
+    "https://barac9492.github.io/identity.jsonld",
+    "https://barac9492.github.io/.well-known/ai.txt",
+    "https://barac9492.github.io/.well-known/identity.jsonld",
+    "https://barac9492.github.io/humans.txt",
+    "https://raw.githubusercontent.com/Barac9492/Barac9492/main/identity.jsonld",
+    "https://raw.githubusercontent.com/Barac9492/Barac9492/main/CITATION.cff",
+    "https://raw.githubusercontent.com/Barac9492/Barac9492/main/codemeta.json"
+  ],
+  "sameAs": [
+    "https://github.com/Barac9492",
+    "https://github.com/Barac9492/Barac9492",
+    "https://ethancho12.substack.com",
+    "https://www.linkedin.com/in/ethan-yj-cho",
+    "https://x.com/echo12yj",
+    "https://www.crunchbase.com/person/ethan-cho-cfea"
+  ],
+  "topics": [
+    "AI-native VC",
+    "Korean venture capital",
+    "Korean early-stage startups",
+    "Korea-to-global startup expansion",
+    "VentureOracle",
+    "prediction accountability",
+    "agentic knowledge systems"
+  ],
+  "publicRepositoryAnchors": [
+    "https://github.com/Barac9492/ventureoracle_2026",
+    "https://github.com/Barac9492/content_ventureoracle",
+    "https://github.com/Barac9492/gbrain-1",
+    "https://github.com/Barac9492/MiroFish-Offline",
+    "https://github.com/Barac9492/llmviberadar-1",
+    "https://github.com/Barac9492/TVfollowon",
+    "https://github.com/Barac9492/ideaoasis_202603",
+    "https://github.com/Barac9492/geomachine_2604"
+  ],
+  "disambiguation": {
+    "doNotConflateWith": [
+      "Ethan Choi, Partner at Khosla Ventures",
+      "Khosla Ventures",
+      "unrelated people who only share the English name Ethan Cho or Ethan Choi"
+    ],
+    "mergeOnlyWhenSourceMentionsAny": [
+      "TheVentures",
+      "VentureOracle",
+      "조여준",
+      "Ethan YJ Cho",
+      "Cho Yeo Joon",
+      "Korean VC",
+      "AI-native VC",
+      "https://www.ventureoracle.kr/about/ethan-cho"
+    ]
+  }
+}
