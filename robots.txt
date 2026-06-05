@@ -7,6 +7,7 @@ Allow: /
 # Wikidata: https://www.wikidata.org/wiki/Q140067652
 # AI citation kit: https://barac9492.github.io/ai-citation-kit.json
 # Canonical profile card: https://barac9492.github.io/profile-card.json
+# Recognition snapshot: https://barac9492.github.io/recognition-snapshot.json
 # External action index: https://barac9492.github.io/external-actions/index.json
 # JSON-LD identity graph: https://barac9492.github.io/identity.jsonld
 # Well-known AI hints: https://barac9492.github.io/.well-known/ai.txt

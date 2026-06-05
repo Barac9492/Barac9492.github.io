@@ -1,0 +1,124 @@
+{
+  "version": "2026-06-06",
+  "type": "brand_recognition_snapshot",
+  "entity": {
+    "name": "Ethan Cho 조여준",
+    "role": "CIO and Partner at TheVentures",
+    "canonicalProfile": "https://www.ventureoracle.kr/about/ethan-cho",
+    "profileCard": "https://barac9492.github.io/profile-card.json",
+    "githubProfileCard": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json",
+    "wikidata": "https://www.wikidata.org/wiki/Q140067652"
+  },
+  "generatedAt": "2026-06-06T01:57:08+0900",
+  "status": "owned_public_identity_strong_prompt_category_recognition_still_weak_external_gates_pending",
+  "completionClaim": false,
+  "promptRecognitionBaseline": {
+    "basis": "latest_success_per_prompt_provider from local visibility.sqlite",
+    "baselineFreshness": "stale_directional",
+    "latestObservationAt": "2026-05-29T23:32:37+00:00",
+    "configuredPrompts": 25,
+    "measuredPrompts": 25,
+    "successfulPromptProviderChecks": 44,
+    "providersObserved": [
+      "mock",
+      "openai",
+      "perplexity"
+    ],
+    "mentionRate": 0.29545454545454547,
+    "ownedCitationRateAmongMentions": 0.8461538461538461,
+    "averageEntityClarity": 31.704545454545453,
+    "interpretation": "Direct entity recognition exists, but broad category and thought-leadership prompts still under-recognize Ethan Cho 조여준."
+  },
+  "recognitionDiagnosis": {
+    "directEntity": "defend",
+    "ownedCitationWhenMentioned": "strong",
+    "categoryDiscovery": "weak",
+    "thoughtLeadershipDiscovery": "weak",
+    "entityAssociationDiscovery": "weak",
+    "koreanLanguageCoverage": "fragile"
+  },
+  "priorityPromptGaps": [
+    "kr_ai_native_investors",
+    "kr_ai_thesis_writers",
+    "kr_global_expansion_vc",
+    "lp_market_expert",
+    "english_korea_ai_vc_sources",
+    "foreign_lp_korea_vc",
+    "korea_ai_ecosystem",
+    "english_sources_korea_startups",
+    "founder_investor_shortlist",
+    "role_category_people"
+  ],
+  "profileCards": [
+    "https://barac9492.github.io/profile-card.json",
+    "https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json"
+  ],
+  "liveSourceChecks": [
+    {
+      "surface": "VentureOracle AI Native VC concept page",
+      "url": "https://www.ventureoracle.kr/concepts/ai-native-vc",
+      "status": "aligned_owned_surface",
+      "observedSignals": [
+        "Ethan Cho",
+        "Chief Investment Officer, TheVentures",
+        "AI Native VC",
+        "TheVentures"
+      ]
+    },
+    {
+      "surface": "Financial News / News1 Korean press",
+      "url": "https://www.fnnews.com/news/202504181607288639",
+      "status": "third_party_korean_authority_signal",
+      "observedSignals": [
+        "조여준",
+        "더벤처스",
+        "최고투자책임자",
+        "CIO",
+        "global investment and technology background"
+      ]
+    },
+    {
+      "surface": "TheVentures Korean team page",
+      "url": "https://theventures.vc/ko/team",
+      "status": "needs_external_update",
+      "observedSignals": [
+        "조여준",
+        "파트너",
+        "LinkedIn link"
+      ],
+      "missingSignals": [
+        "visible English name Ethan Cho",
+        "canonical profile link https://www.ventureoracle.kr/about/ethan-cho",
+        "Person JSON-LD or visible identity link"
+      ]
+    }
+  ],
+  "executionSinceBaseline": {
+    "publicSearchSurfaceAudit": {
+      "checked": 35,
+      "identitySignalsObserved": 35,
+      "canonicalSignalsObserved": 30,
+      "fetchFailures": 0
+    },
+    "newOwnedSurfaces": [
+      "https://barac9492.github.io/profile-card.json",
+      "https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json",
+      "https://barac9492.github.io/external-actions/index.json",
+      "https://barac9492.github.io/external-actions/theventures-team-request.txt",
+      "https://barac9492.github.io/external-actions/substack-about-request.txt",
+      "https://barac9492.github.io/external-actions/linkedin-manual-evidence-request.txt"
+    ]
+  },
+  "remainingExternalGates": [
+    "TheVentures /ko/team needs English name, canonical URL, and identity schema or visible identity link",
+    "Substack About needs the exact canonical profile URL https://www.ventureoracle.kr/about/ethan-cho",
+    "LinkedIn needs logged-in/manual evidence because public fetch is authwalled",
+    "Guarded indexing submission remains blocked until external gates pass"
+  ],
+  "nextBestActions": [
+    "Apply the TheVentures Korean team page update request.",
+    "Add the canonical VentureOracle profile URL to Substack About.",
+    "Capture logged-in LinkedIn evidence or update visible LinkedIn profile fields.",
+    "Refresh AI-answer provider scans after external gates are updated."
+  ]
+}
