@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.ventureoracle.kr/about/ethan-cho#person",
+  "name": "Ethan Cho 조여준",
+  "alternateName": [
+    "Ethan Cho",
+    "조여준",
+    "Ethan YJ Cho",
+    "Cho Yeo Joon",
+    "Yeo Joon Cho"
+  ],
+  "jobTitle": "CIO and Partner",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "TheVentures",
+    "url": "https://theventures.vc"
+  },
+  "url": "https://www.ventureoracle.kr/about/ethan-cho",
+  "sameAs": [
+    "https://www.ventureoracle.kr/about/ethan-cho",
+    "https://www.wikidata.org/wiki/Q140067652",
+    "https://github.com/Barac9492",
+    "https://github.com/Barac9492/Barac9492",
+    "https://ethancho12.substack.com",
+    "https://www.linkedin.com/in/ethan-yj-cho",
+    "https://x.com/echo12yj",
+    "https://www.crunchbase.com/person/ethan-cho-cfea"
+  ],
+  "knowsAbout": [
+    "AI-native VC",
+    "Korean venture capital",
+    "Korea-to-global startup expansion",
+    "early-stage startups",
+    "prediction accountability",
+    "agentic knowledge systems",
+    "VentureOracle"
+  ],
+  "publicRepositoryAnchors": [
+    "https://github.com/Barac9492/ventureoracle_2026",
+    "https://github.com/Barac9492/content_ventureoracle",
+    "https://github.com/Barac9492/gbrain-1",
+    "https://github.com/Barac9492/MiroFish-Offline",
+    "https://github.com/Barac9492/llmviberadar-1",
+    "https://github.com/Barac9492/TVfollowon",
+    "https://github.com/Barac9492/ideaoasis_202603",
+    "https://github.com/Barac9492/geomachine_2604"
+  ],
+  "disambiguatingDescription": "Ethan Cho 조여준 is CIO and Partner at TheVentures in South Korea and author of VentureOracle. Do not conflate with Ethan Choi of Khosla Ventures or other people with similar English names."
+}

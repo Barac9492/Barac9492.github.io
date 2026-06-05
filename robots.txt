@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://barac9492.github.io/sitemap.xml
