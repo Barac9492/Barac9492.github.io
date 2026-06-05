@@ -1,0 +1,61 @@
+{
+  "version": "2026-06-06",
+  "type": "external_brand_recognition_action_index",
+  "entity": {
+    "name": "Ethan Cho 조여준",
+    "role": "CIO and Partner at TheVentures",
+    "canonicalProfile": "https://www.ventureoracle.kr/about/ethan-cho",
+    "profileCard": "https://barac9492.github.io/profile-card.json",
+    "githubProfileCard": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json",
+    "wikidata": "https://www.wikidata.org/wiki/Q140067652"
+  },
+  "overallStatus": "external_profile_gates_pending",
+  "actions": [
+    {
+      "id": "theventures_team_update",
+      "surface": "TheVentures Korean team page",
+      "targetUrl": "https://theventures.vc/ko/team",
+      "requestUrl": "https://barac9492.github.io/external-actions/theventures-team-request.txt",
+      "status": "needs_external_owner_update",
+      "requiredSignals": [
+        "visible English name Ethan Cho",
+        "visible Korean name 조여준",
+        "visible canonical profile link https://www.ventureoracle.kr/about/ethan-cho",
+        "visible identity link or Person JSON-LD"
+      ],
+      "verifier": "python -m ai_visibility_agent.publication_verifier --config config/profile.yaml --timeout-seconds 10 --strict"
+    },
+    {
+      "id": "substack_about_update",
+      "surface": "Substack About",
+      "targetUrl": "https://ethancho12.substack.com/about",
+      "requestUrl": "https://barac9492.github.io/external-actions/substack-about-request.txt",
+      "status": "needs_profile_owner_update",
+      "requiredSignals": [
+        "exact canonical profile URL https://www.ventureoracle.kr/about/ethan-cho",
+        "keep Ethan Cho 조여준",
+        "keep TheVentures role context"
+      ],
+      "verifier": "python -m ai_visibility_agent.profile_update_verifier --config config/profile.yaml --strict"
+    },
+    {
+      "id": "linkedin_manual_evidence",
+      "surface": "LinkedIn profile",
+      "targetUrl": "https://kr.linkedin.com/in/ethan-yj-cho",
+      "requestUrl": "https://barac9492.github.io/external-actions/linkedin-manual-evidence-request.txt",
+      "status": "manual_evidence_required",
+      "requiredSignals": [
+        "Ethan Cho / 조여준",
+        "TheVentures",
+        "CIO or Partner",
+        "AI-native VC or Korean VC role language",
+        "canonical profile URL https://www.ventureoracle.kr/about/ethan-cho"
+      ],
+      "verifier": "python -m ai_visibility_agent.profile_update_verifier --config config/profile.yaml --strict"
+    }
+  ],
+  "indexingPolicy": {
+    "status": "blocked_until_external_gates_pass",
+    "reason": "Do not run guarded IndexNow/search submission until TheVentures, Substack, and LinkedIn/profile evidence gates pass."
+  }
+}

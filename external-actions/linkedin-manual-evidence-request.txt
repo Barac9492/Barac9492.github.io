@@ -1,0 +1,30 @@
+LinkedIn manual evidence request for Ethan Cho 조여준
+
+Entity: Ethan Cho 조여준
+Role: CIO and Partner at TheVentures
+Canonical profile: https://www.ventureoracle.kr/about/ethan-cho
+AI-readable profile card: https://barac9492.github.io/profile-card.json
+Raw GitHub profile card: https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json
+Wikidata: https://www.wikidata.org/wiki/Q140067652
+
+Target page:
+https://kr.linkedin.com/in/ethan-yj-cho
+
+Public automated fetch currently returns LinkedIn authwall / HTTP 999, so logged-in manual evidence is required.
+
+Required visible or copied LinkedIn signals:
+- Ethan Cho / 조여준
+- TheVentures
+- CIO or Partner
+- AI-native VC or Korean VC / early-stage investor language
+- https://www.ventureoracle.kr/about/ethan-cho
+
+Optional if LinkedIn has website or featured-link slots:
+- https://barac9492.github.io/profile-card.json
+
+Evidence to capture:
+- logged-in LinkedIn screenshot or copied profile text showing the required signals
+- evidence JSON or note with capture date and URL
+
+Verification command:
+python -m ai_visibility_agent.profile_update_verifier --config config/profile.yaml --strict

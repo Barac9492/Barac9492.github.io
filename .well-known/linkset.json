@@ -28,6 +28,11 @@
           "title": "Short canonical profile card for Ethan Cho 조여준"
         },
         {
+          "href": "https://barac9492.github.io/external-actions/index.json",
+          "type": "application/json",
+          "title": "Pending external profile action index for Ethan Cho 조여준"
+        },
+        {
           "href": "https://barac9492.github.io/humans.txt",
           "type": "text/plain"
         },
@@ -89,6 +94,11 @@
           "href": "https://barac9492.github.io/profile-card.json",
           "type": "application/json",
           "title": "Short canonical profile card for Ethan Cho 조여준"
+        },
+        {
+          "href": "https://barac9492.github.io/external-actions/index.json",
+          "type": "application/json",
+          "title": "Pending external profile action index for Ethan Cho 조여준"
         }
       ],
       "same-as": [

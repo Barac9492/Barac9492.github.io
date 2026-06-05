@@ -1,0 +1,33 @@
+Substack About update request for Ethan Cho 조여준
+
+Entity: Ethan Cho 조여준
+Role: CIO and Partner at TheVentures
+Canonical profile: https://www.ventureoracle.kr/about/ethan-cho
+AI-readable profile card: https://barac9492.github.io/profile-card.json
+Raw GitHub profile card: https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json
+Wikidata: https://www.wikidata.org/wiki/Q140067652
+
+Target page:
+https://ethancho12.substack.com/about
+
+Required visible addition:
+Canonical profile: Ethan Cho 조여준 - TheVentures AI-native VC
+https://www.ventureoracle.kr/about/ethan-cho
+
+Optional second reference link:
+AI-readable profile card
+https://barac9492.github.io/profile-card.json
+
+Keep existing signals:
+- Ethan Cho
+- 조여준
+- TheVentures
+- CIO / Partner role context
+- AI-native VC or Korean VC language
+- correct Substack domain: https://ethancho12.substack.com
+
+Verifier gate this should close:
+- substack_about: canonical_url
+
+Verification command:
+python -m ai_visibility_agent.profile_update_verifier --config config/profile.yaml --strict

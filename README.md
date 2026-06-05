@@ -13,6 +13,7 @@ Machine-readable surfaces:
 - `ai-citation-kit.json`
 - `profile-card.json`
 - `external-profile-status.json`
+- `external-actions/index.json`
 - `linkset.json`
 - `identity.json`
 - `identity.jsonld`

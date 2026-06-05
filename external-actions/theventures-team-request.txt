@@ -1,0 +1,41 @@
+TheVentures team page update request for Ethan Cho 조여준
+
+Entity: Ethan Cho 조여준
+Role: CIO and Partner at TheVentures
+Canonical profile: https://www.ventureoracle.kr/about/ethan-cho
+AI-readable profile card: https://barac9492.github.io/profile-card.json
+Raw GitHub profile card: https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json
+Wikidata: https://www.wikidata.org/wiki/Q140067652
+
+Target page:
+https://theventures.vc/ko/team
+
+Current observed issue:
+The Korean team card has 조여준 and a role term, but it is missing the English name Ethan Cho, the canonical VentureOracle profile link, and an identity schema or visible identity link.
+
+Fastest acceptable edit:
+1. Change visible name from 조여준 to Ethan Cho 조여준.
+2. Change visible role from 파트너 to CIO / Partner.
+3. Add a visible canonical profile link on or near the same card:
+   https://www.ventureoracle.kr/about/ethan-cho
+
+Optional crawler/schema addition:
+Add Person JSON-LD with:
+- @id: https://www.ventureoracle.kr/about/ethan-cho#person
+- name: Ethan Cho 조여준
+- jobTitle: Chief Investment Officer, Partner
+- worksFor: TheVentures
+- sameAs:
+  - https://www.linkedin.com/in/ethan-yj-cho
+  - https://www.wikidata.org/wiki/Q140067652
+  - https://www.ventureoracle.kr/about/ethan-cho
+  - https://barac9492.github.io/profile-card.json
+  - https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json
+
+Verifier gates this should close:
+- theventures_team:english_name
+- theventures_team:canonical_url_link
+- theventures_team:identity_schema_or_link
+
+Verification command:
+python -m ai_visibility_agent.publication_verifier --config config/profile.yaml --timeout-seconds 10 --strict
