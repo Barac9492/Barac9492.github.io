@@ -5,6 +5,8 @@ Role: CIO and Partner at TheVentures
 Canonical profile: https://www.ventureoracle.kr/about/ethan-cho
 AI-readable profile card: https://barac9492.github.io/profile-card.json
 Raw GitHub profile card: https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json
+Category answer briefs: https://barac9492.github.io/category-answer-briefs.json
+Raw GitHub category answer briefs: https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json
 Wikidata: https://www.wikidata.org/wiki/Q140067652
 
 Target page:
@@ -12,6 +14,9 @@ https://theventures.vc/ko/team
 
 Current observed issue:
 The Korean team card has 조여준 and a role term, but it is missing the English name Ethan Cho, the canonical VentureOracle profile link, and an identity schema or visible identity link.
+
+Why this matters:
+This page is the highest-leverage external entity gate. Adding the English name, canonical profile URL, and identity link/schema helps answer engines resolve Ethan Cho 조여준 as the TheVentures person for Korea AI-native VC, Korea-to-global VC, Korean AI thesis writer, and foreign LP Korea VC queries.
 
 Fastest acceptable edit:
 1. Change visible name from 조여준 to Ethan Cho 조여준.
@@ -31,6 +36,8 @@ Add Person JSON-LD with:
   - https://www.ventureoracle.kr/about/ethan-cho
   - https://barac9492.github.io/profile-card.json
   - https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json
+  - https://barac9492.github.io/category-answer-briefs.json
+  - https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json
 
 Verifier gates this should close:
 - theventures_team:english_name

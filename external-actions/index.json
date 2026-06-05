@@ -7,6 +7,8 @@
     "canonicalProfile": "https://www.ventureoracle.kr/about/ethan-cho",
     "profileCard": "https://barac9492.github.io/profile-card.json",
     "githubProfileCard": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json",
+    "categoryAnswerBriefs": "https://barac9492.github.io/category-answer-briefs.json",
+    "githubCategoryAnswerBriefs": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json",
     "wikidata": "https://www.wikidata.org/wiki/Q140067652"
   },
   "overallStatus": "external_profile_gates_pending",
@@ -17,6 +19,7 @@
       "targetUrl": "https://theventures.vc/ko/team",
       "requestUrl": "https://barac9492.github.io/external-actions/theventures-team-request.txt",
       "status": "needs_external_owner_update",
+      "whyThisMatters": "This closes the highest-impact external entity gate: TheVentures should connect 조여준 to Ethan Cho, the canonical VentureOracle profile, and AI/category-answer surfaces so answer engines can resolve him for Korea AI-native VC and Korea-to-global VC queries.",
       "requiredSignals": [
         "visible English name Ethan Cho",
         "visible Korean name 조여준",
@@ -31,6 +34,7 @@
       "targetUrl": "https://ethancho12.substack.com/about",
       "requestUrl": "https://barac9492.github.io/external-actions/substack-about-request.txt",
       "status": "needs_profile_owner_update",
+      "whyThisMatters": "This gives Substack readers and crawlers an exact canonical profile URL, connecting the existing writing surface to the same entity graph used by VentureOracle, GitHub Pages, and raw GitHub category-answer briefs.",
       "requiredSignals": [
         "exact canonical profile URL https://www.ventureoracle.kr/about/ethan-cho",
         "keep Ethan Cho 조여준",
@@ -44,6 +48,7 @@
       "targetUrl": "https://kr.linkedin.com/in/ethan-yj-cho",
       "requestUrl": "https://barac9492.github.io/external-actions/linkedin-manual-evidence-request.txt",
       "status": "manual_evidence_required",
+      "whyThisMatters": "LinkedIn is authwalled to automated verification, so a logged-in evidence capture is required to prove the profile visibly carries TheVentures, role, and canonical profile signals.",
       "requiredSignals": [
         "Ethan Cho / 조여준",
         "TheVentures",

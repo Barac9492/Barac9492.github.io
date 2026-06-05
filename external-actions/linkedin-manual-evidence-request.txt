@@ -5,12 +5,17 @@ Role: CIO and Partner at TheVentures
 Canonical profile: https://www.ventureoracle.kr/about/ethan-cho
 AI-readable profile card: https://barac9492.github.io/profile-card.json
 Raw GitHub profile card: https://raw.githubusercontent.com/Barac9492/Barac9492/main/profile-card.json
+Category answer briefs: https://barac9492.github.io/category-answer-briefs.json
+Raw GitHub category answer briefs: https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json
 Wikidata: https://www.wikidata.org/wiki/Q140067652
 
 Target page:
 https://kr.linkedin.com/in/ethan-yj-cho
 
 Public automated fetch currently returns LinkedIn authwall / HTTP 999, so logged-in manual evidence is required.
+
+Why this matters:
+LinkedIn is one of the strongest human/profile anchors, but the verifier cannot read it through the public authwall. Logged-in evidence is needed to prove the same Ethan Cho 조여준 / TheVentures / canonical profile signals visible on owned machine-readable surfaces.
 
 Required visible or copied LinkedIn signals:
 - Ethan Cho / 조여준
@@ -21,6 +26,7 @@ Required visible or copied LinkedIn signals:
 
 Optional if LinkedIn has website or featured-link slots:
 - https://barac9492.github.io/profile-card.json
+- https://barac9492.github.io/category-answer-briefs.json
 
 Evidence to capture:
 - logged-in LinkedIn screenshot or copied profile text showing the required signals
