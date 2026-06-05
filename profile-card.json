@@ -39,6 +39,7 @@
     "categoryAnswerBriefs": "https://barac9492.github.io/category-answer-briefs.json",
     "categoryAnswerBriefsJsonLd": "https://barac9492.github.io/category-answer-briefs.jsonld",
     "githubCategoryAnswerBriefs": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json",
+    "githubCategoryAnswerBriefsJsonLd": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.jsonld",
     "identityGraph": "https://barac9492.github.io/identity.jsonld",
     "externalProfileStatus": "https://barac9492.github.io/external-profile-status.json",
     "githubProfile": "https://github.com/Barac9492",

@@ -10,9 +10,10 @@
     "categoryAnswerBriefs": "https://barac9492.github.io/category-answer-briefs.json",
     "categoryAnswerBriefsJsonLd": "https://barac9492.github.io/category-answer-briefs.jsonld",
     "githubCategoryAnswerBriefs": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json",
+    "githubCategoryAnswerBriefsJsonLd": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.jsonld",
     "wikidata": "https://www.wikidata.org/wiki/Q140067652"
   },
-  "generatedAt": "2026-06-06T06:20:36+0900",
+  "generatedAt": "2026-06-06T06:28:27+0900",
   "status": "owned_public_identity_strong_prompt_category_recognition_still_weak_external_gates_pending",
   "completionClaim": false,
   "promptRecognitionBaseline": {
@@ -59,6 +60,7 @@
   "categoryAnswerBriefs": "https://barac9492.github.io/category-answer-briefs.json",
   "categoryAnswerBriefsJsonLd": "https://barac9492.github.io/category-answer-briefs.jsonld",
   "githubCategoryAnswerBriefs": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json",
+  "githubCategoryAnswerBriefsJsonLd": "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.jsonld",
   "liveSourceChecks": [
     {
       "surface": "VentureOracle AI Native VC concept page",
@@ -101,9 +103,9 @@
   ],
   "executionSinceBaseline": {
     "publicSearchSurfaceAudit": {
-      "checked": 39,
-      "identitySignalsObserved": 39,
-      "canonicalSignalsObserved": 34,
+      "checked": 40,
+      "identitySignalsObserved": 40,
+      "canonicalSignalsObserved": 35,
       "fetchFailures": 0
     },
     "newOwnedSurfaces": [
@@ -112,6 +114,7 @@
       "https://barac9492.github.io/category-answer-briefs.json",
       "https://barac9492.github.io/category-answer-briefs.jsonld",
       "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.json",
+      "https://raw.githubusercontent.com/Barac9492/Barac9492/main/category-answer-briefs.jsonld",
       "https://barac9492.github.io/external-actions/index.json",
       "https://barac9492.github.io/external-actions/theventures-team-request.txt",
       "https://barac9492.github.io/external-actions/substack-about-request.txt",
