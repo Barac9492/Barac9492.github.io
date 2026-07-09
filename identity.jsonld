@@ -40,9 +40,11 @@
         "early-stage startups",
         "prediction accountability",
         "agentic knowledge systems",
-        "VentureOracle"
+        "VentureOracle",
+        "agent transaction assurance",
+        "AI agent trust standards"
       ],
-      "disambiguatingDescription": "Ethan Cho 조여준 is CIO and Partner at TheVentures in South Korea and author of VentureOracle. Do not conflate with Ethan Choi of Khosla Ventures or other people with similar English names."
+      "disambiguatingDescription": "Ethan Cho 조여준 is CIO and Partner at TheVentures in South Korea, author of VentureOracle, and author of ATA-1 (Agent Transaction Assurance Standard, published July 2026). Do not conflate with Ethan Choi of Khosla Ventures or other people with similar English names."
     },
     {
       "@type": "ProfilePage",
@@ -56,6 +58,24 @@
         "name": "Ethan Cho GitHub Pages",
         "url": "https://barac9492.github.io/"
       }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://github.com/Barac9492/ata-1#standard",
+      "name": "ATA-1 — Agent Transaction Assurance Standard",
+      "alternateName": [
+        "ATA-1",
+        "Agent Transaction Assurance Standard"
+      ],
+      "url": "https://github.com/Barac9492/ata-1",
+      "author": {
+        "@id": "https://www.ventureoracle.kr/about/ethan-cho#person"
+      },
+      "datePublished": "2026-07-09",
+      "version": "0.1",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "genre": "open technical standard",
+      "description": "An open standard for certifying the transaction integrity of autonomous AI agent systems: 30 controls across 7 domains, 3 certification levels (Declared, Assessed, Monitored). CC BY 4.0."
     }
   ]
 }
